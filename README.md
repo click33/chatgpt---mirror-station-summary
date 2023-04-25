@@ -55,6 +55,7 @@
 - https://chat-shared.zhile.io/
 - http://www.aihu003.me/
 - https://gpt.dizent.cn/
+- https://chat.okis.dev/zh-CN?mode=chat
 
 
 ### 开源的，可以自己部署到本地的：
