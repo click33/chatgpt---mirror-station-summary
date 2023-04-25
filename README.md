@@ -31,6 +31,7 @@
 - https://chatmindai.cn
 - https://www.ebo168.com/
 - https://chat.getgpt.com.cn/
+- https://studyai.life/
 
 
 ### 登录后可以免费使用的：
