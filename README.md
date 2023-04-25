@@ -27,3 +27,4 @@
 - https://tongyi.aliyun.com/ - 通义千问，阿里出品
 - https://techday.sensetime.com/ - 商量，商汤科技出品
 - https://tiangong.kunlun.com/ - 天工AI助手，天工大模型
+- https://xinghuo.xfyun.cn/ - 讯飞星火认知大模型
