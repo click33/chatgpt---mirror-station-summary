@@ -26,6 +26,7 @@
 - https://chatbot.js.cn - AI小助理
 - http://chat.forwardminded.xyz/
 - https://gezhe.com/
+- http://www.gpt-smart.com/
 
 ### 需要付费的：
 - https://gpt4u.top
