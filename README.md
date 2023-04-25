@@ -20,16 +20,7 @@
 - https://chat.wuguokai.cn
 - https://chatgpt.nicelinks.site/
 - http://ai.yscxy.net/
-- https://chatgpt.0voice.com/#/chat
-- http://duckling.buzz/
-
-
-
 - https://chat.gpthink.top/#/chat
-- https://chatmindai.cn/#/chat
-
-
-
 - https://chat.binjie.site:7777
 - https://chat.jinshutuan.com/
 - https://chatgpt.0voice.com/#/chat
@@ -53,12 +44,7 @@
 - https://app.haitunchat.com/login/
 - http://chatgpt.bainaark.top/index.php
 - https://chat.mac89.com/
-
-
-- http://chatgpt.bainaark.top/index.php
-- https://chat.mac89.com/
 - https://front2.stargpt.top/#/chat
-- https://chatmindai.cn/#/chat/
 
 
 ### 需要付费的：
