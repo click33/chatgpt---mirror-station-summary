@@ -11,6 +11,7 @@
 - https://ai.gcchen.cn/ - 星云 AI
 - http://chat.apeto.cn/ - Genius
 - https://ai.yunweikc.com/ - 昀为AI
+- https://chatbot.js.cn - AI小助理
 
 
 ### 登录后且需要付费的：
