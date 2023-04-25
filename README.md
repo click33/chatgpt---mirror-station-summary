@@ -20,6 +20,10 @@
 - http://ai.yscxy.net/
 - https://chat.binjie.site:7777
 - https://chat.jinshutuan.com/
+- https://chatgpt.0voice.com/#/chat
+- http://duckling.buzz/
+- https://aiweb.douguguo.com/
+- https://chat.openai.run/
 
 
 ### 登录后可以免费使用的：
