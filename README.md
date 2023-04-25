@@ -24,6 +24,8 @@
 - http://duckling.buzz/
 - https://aiweb.douguguo.com/
 - https://chat.openai.run/
+- https://chat.gpthink.top
+- https://chatmindai.cn
 
 
 ### 登录后可以免费使用的：
@@ -35,6 +37,9 @@
 - https://gezhe.com/
 - http://www.gpt-smart.com/
 - https://app.haitunchat.com/login/
+- http://chatgpt.bainaark.top/index.php
+- https://chat.mac89.com/
+
 
 ### 需要付费的：
 - https://gpt4u.top
