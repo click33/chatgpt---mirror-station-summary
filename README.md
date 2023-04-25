@@ -6,13 +6,14 @@
 ### 无需登录直接可用的：
 - https://chatbot.theb.ai/
 - https://openai.run/
+- https://openai.nm.cn/
 
 ### 登录后可以免费使用的：
 - https://ai.gcchen.cn/ - 星云 AI
 - http://chat.apeto.cn/ - Genius
 - https://ai.yunweikc.com/ - 昀为AI
 - https://chatbot.js.cn - AI小助理
-
+- http://chat.forwardminded.xyz/#/
 
 ### 登录后且需要付费的：
 - https://gpt4u.top
