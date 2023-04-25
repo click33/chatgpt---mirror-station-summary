@@ -12,6 +12,9 @@
 - https://chat-shared.zhile.io/shared.html
 - https://chat.aichatos.top/
 - https://chat.ttext.cn/
+- https://chat.wuguokai.cn
+- https://chatgpt.nicelinks.site/
+- http://ai.yscxy.net/
 
 
 ### 登录后可以免费使用的：
