@@ -48,6 +48,8 @@
 
 - http://chatgpt.bainaark.top/index.php
 - https://chat.mac89.com/
+- https://front2.stargpt.top/#/chat
+- https://chatmindai.cn/#/chat/
 
 
 ### 需要付费的：
