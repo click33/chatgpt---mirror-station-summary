@@ -21,7 +21,7 @@
 
 
 ### 需要自己提供 key 的：
-
+- https://chat-shared.zhile.io/
 
 ### 开源的，可以自己部署到本地的：
 - https://gitee.com/lboot/lucy-chat
