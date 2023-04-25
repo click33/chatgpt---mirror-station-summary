@@ -8,6 +8,7 @@
 帮助国内在正常网络下的同学访问gpt。
 
 ### 无需登录直接可用的：
+- https://itedus.cn
 - https://chatbot.theb.ai/
 - https://openai.run/
 - https://openai.nm.cn/
