@@ -10,6 +10,7 @@
 - https://openai.run/
 - https://openai.nm.cn/
 - https://chat-shared.zhile.io/shared.html
+- https://chat.aichatos.top/
 
 ### 登录后可以免费使用的：
 - https://ai.gcchen.cn/ - 星云 AI
