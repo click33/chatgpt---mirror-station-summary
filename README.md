@@ -27,6 +27,7 @@
 - https://chat.gpthink.top
 - https://chatmindai.cn
 - https://www.ebo168.com/
+- https://chat.getgpt.com.cn/
 
 
 ### 登录后可以免费使用的：
