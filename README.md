@@ -7,7 +7,7 @@
 
 
 ### 登录后可以免费使用的：
-- https://ai.gcchen.cn/ —— 星云 AI
+- https://ai.gcchen.cn/ - 星云 AI
 
 
 
@@ -22,7 +22,7 @@
 
 
 ### 国内自研大模型汇总：
-- https://yiyan.baidu.com/ —— 文心一言，百度出品
-- https://tongyi.aliyun.com/ —— 通义千问，阿里出品
-- https://techday.sensetime.com/ —— 商量，商汤科技出品
-- https://tiangong.kunlun.com/ —— 天工AI助手，天工大模型
+- https://yiyan.baidu.com/ - 文心一言，百度出品
+- https://tongyi.aliyun.com/ - 通义千问，阿里出品
+- https://techday.sensetime.com/ - 商量，商汤科技出品
+- https://tiangong.kunlun.com/ - 天工AI助手，天工大模型
