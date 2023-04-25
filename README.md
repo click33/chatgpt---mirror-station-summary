@@ -17,6 +17,7 @@
 - https://chat.wuguokai.cn
 - https://chatgpt.nicelinks.site/
 - http://ai.yscxy.net/
+- https://chat.binjie.site:7777
 
 
 ### 登录后可以免费使用的：
