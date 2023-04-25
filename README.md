@@ -61,6 +61,7 @@
 - https://gitee.com/lboot/lucy-chat
 - https://github.com/Chanzhaoyu/chatgpt-web
 - https://gitee.com/aniu-666/chat-gpt-website
+- https://kgithub.com/hncboy/chatgpt-web-java
 
 
 ### 国内自研大模型汇总：
