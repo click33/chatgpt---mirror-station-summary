@@ -4,8 +4,8 @@
 汇总国内所有 gpt 镜像站，欢迎大家一起贡献，请直接提交 issue 或者 pr （只能提交普通网络下就可以访问成功的）
 
 ### 无需登录直接可用的：
+- https://chatbot.theb.ai/
 
-https://chatbot.theb.ai/
 
 ### 登录后可以免费使用的：
 - https://ai.gcchen.cn/ - 星云 AI
