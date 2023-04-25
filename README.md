@@ -11,13 +11,16 @@
 - https://openai.nm.cn/
 - https://chat-shared.zhile.io/shared.html
 - https://chat.aichatos.top/
+- https://chat.ttext.cn/
+
 
 ### 登录后可以免费使用的：
 - https://ai.gcchen.cn/ - 星云 AI
 - http://chat.apeto.cn/ - Genius
 - https://ai.yunweikc.com/ - 昀为AI
 - https://chatbot.js.cn - AI小助理
-- http://chat.forwardminded.xyz/#/
+- http://chat.forwardminded.xyz/
+
 
 ### 需要付费的：
 - https://gpt4u.top
@@ -25,6 +28,7 @@
 
 ### 需要自己提供 key 的：
 - https://chat-shared.zhile.io/
+
 
 ### 开源的，可以自己部署到本地的：
 - https://gitee.com/lboot/lucy-chat
