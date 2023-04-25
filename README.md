@@ -17,6 +17,8 @@
 - https://chat.wuguokai.cn
 - https://chatgpt.nicelinks.site/
 - http://ai.yscxy.net/
+- https://chatgpt.0voice.com/#/chat
+- http://duckling.buzz/
 
 
 ### 登录后可以免费使用的：
