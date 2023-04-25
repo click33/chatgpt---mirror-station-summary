@@ -34,6 +34,7 @@
 
 ### 需要自己提供 key 的：
 - https://chat-shared.zhile.io/
+- http://www.aihu003.me/
 
 
 ### 开源的，可以自己部署到本地的：
