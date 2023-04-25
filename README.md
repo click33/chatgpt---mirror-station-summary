@@ -8,6 +8,7 @@
 帮助国内在正常网络下的同学访问gpt。
 
 ### 无需登录直接可用的：
+- https://itedus.cn
 - https://chatbot.theb.ai/
 - https://openai.run/
 - https://openai.nm.cn/
@@ -26,6 +27,12 @@
 
 
 
+- https://chat.binjie.site:7777
+- https://chat.jinshutuan.com/
+- https://chatgpt.0voice.com/#/chat
+- http://duckling.buzz/
+- https://aiweb.douguguo.com/
+- https://chat.openai.run/
 
 
 ### 登录后可以免费使用的：
@@ -36,6 +43,7 @@
 - http://chat.forwardminded.xyz/
 - https://gezhe.com/
 - http://www.gpt-smart.com/
+- https://app.haitunchat.com/login/
 
 - http://chatgpt.bainaark.top/index.php
 - https://chat.mac89.com/
@@ -48,10 +56,12 @@
 ### 需要自己提供 key 的：
 - https://chat-shared.zhile.io/
 - http://www.aihu003.me/
+- https://gpt.dizent.cn/
 
 
 ### 开源的，可以自己部署到本地的：
 - https://gitee.com/lboot/lucy-chat
+- https://github.com/Chanzhaoyu/chatgpt-web
 
 
 ### 国内自研大模型汇总：
