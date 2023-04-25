@@ -30,3 +30,5 @@
 - https://techday.sensetime.com/ - 商量，商汤科技出品
 - https://tiangong.kunlun.com/ - 天工AI助手，天工大模型
 - https://xinghuo.xfyun.cn/ - 讯飞星火认知大模型
+- https://moss.fastnlp.top/ - Moss，复旦团队出品
+- https://www.so.com/zt/invite.html#/ - 360智脑，360出品
