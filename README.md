@@ -26,6 +26,7 @@
 - https://chat.openai.run/
 - https://chat.gpthink.top
 - https://chatmindai.cn
+- https://www.ebo168.com/
 
 
 ### 登录后可以免费使用的：
