@@ -21,6 +21,13 @@
 - http://duckling.buzz/
 
 
+- https://chat.gpthink.top/#/chat
+- https://chatmindai.cn/#/chat
+
+
+
+
+
 ### 登录后可以免费使用的：
 - https://ai.gcchen.cn/ - 星云 AI
 - http://chat.apeto.cn/ - Genius
@@ -29,6 +36,10 @@
 - http://chat.forwardminded.xyz/
 - https://gezhe.com/
 - http://www.gpt-smart.com/
+
+- http://chatgpt.bainaark.top/index.php
+- https://chat.mac89.com/
+
 
 ### 需要付费的：
 - https://gpt4u.top
