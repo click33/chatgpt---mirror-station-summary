@@ -20,7 +20,7 @@
 - https://ai.yunweikc.com/ - 昀为AI
 - https://chatbot.js.cn - AI小助理
 - http://chat.forwardminded.xyz/
-
+- https://gezhe.com/
 
 ### 需要付费的：
 - https://gpt4u.top
