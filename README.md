@@ -19,7 +19,7 @@
 - https://chatbot.js.cn - AI小助理
 - http://chat.forwardminded.xyz/#/
 
-### 登录后且需要付费的：
+### 需要付费的：
 - https://gpt4u.top
 
 
