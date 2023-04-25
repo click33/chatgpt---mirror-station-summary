@@ -5,7 +5,7 @@
 
 ### 无需登录直接可用的：
 - https://chatbot.theb.ai/
-
+- https://openai.run/
 
 ### 登录后可以免费使用的：
 - https://ai.gcchen.cn/ - 星云 AI
