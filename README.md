@@ -34,6 +34,7 @@
 - http://chat.forwardminded.xyz/
 - https://gezhe.com/
 - http://www.gpt-smart.com/
+- https://app.haitunchat.com/login/
 
 ### 需要付费的：
 - https://gpt4u.top
