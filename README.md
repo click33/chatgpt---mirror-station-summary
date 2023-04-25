@@ -48,6 +48,7 @@
 
 ### 开源的，可以自己部署到本地的：
 - https://gitee.com/lboot/lucy-chat
+- https://github.com/Chanzhaoyu/chatgpt-web
 
 
 ### 国内自研大模型汇总：
