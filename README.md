@@ -32,6 +32,8 @@
 - https://www.ebo168.com/
 - https://chat.getgpt.com.cn/
 - https://studyai.life/
+- https://chat1.aichatos.com/
+- https://chat.extkj.cn/
 
 
 ### 登录后可以免费使用的：
