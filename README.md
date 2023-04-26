@@ -51,6 +51,7 @@
 - https://chat.mac89.com/
 - https://front2.stargpt.top/#/chat
 - https://chatgpt.ctfcode.com/#/register
+- http://chat.niitcxl.cn
 
 ### 需要付费的：
 - https://gpt4u.top
@@ -82,3 +83,4 @@
 
 ### AI工具集导航网站:
 - https://ai-bot.cn/ - 第一次加载较慢
+- https://www.aiyjs.com/ - AI工具集导航网站
