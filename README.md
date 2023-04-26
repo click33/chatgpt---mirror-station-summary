@@ -85,6 +85,7 @@
 
 ### 插件：
 - https://www.wetab.link/zh/ - Edge浏览器插件（邮箱登录后免费使用）
+- https://chatgpt.cn.obiscr.com/ - 在 idea 上使用 chatgpt
 
 
 ### AI工具集导航网站:
