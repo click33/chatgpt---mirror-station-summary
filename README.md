@@ -77,3 +77,6 @@
 - https://xinghuo.xfyun.cn/ - 讯飞星火认知大模型
 - https://moss.fastnlp.top/ - Moss，复旦团队出品
 - https://www.so.com/zt/invite.html#/ - 360智脑，360出品
+
+### AI工具集导航网站:
+- https://ai-bot.cn/ - 第一次加载较慢
