@@ -67,7 +67,7 @@
 - https://github.com/Chanzhaoyu/chatgpt-web
 - https://gitee.com/aniu-666/chat-gpt-website
 - https://github.com/hncboy/chatgpt-web-java
-
+- https://github.com/getcursor/cursor - 使用Ai来辅助编程
 
 ### 国内自研大模型汇总：
 - https://yiyan.baidu.com/ - 文心一言，百度出品
