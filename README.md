@@ -72,6 +72,7 @@
 - https://github.com/hncboy/chatgpt-web-java
 - https://github.com/getcursor/cursor - 使用Ai来辅助编程
 
+
 ### 国内自研大模型汇总：
 - https://yiyan.baidu.com/ - 文心一言，百度出品
 - https://tongyi.aliyun.com/ - 通义千问，阿里出品
@@ -80,6 +81,11 @@
 - https://xinghuo.xfyun.cn/ - 讯飞星火认知大模型
 - https://moss.fastnlp.top/ - Moss，复旦团队出品
 - https://www.so.com/zt/invite.html#/ - 360智脑，360出品
+
+
+### 插件：
+- https://www.wetab.link/zh/ - Edge浏览器插件（邮箱登录后免费使用）
+
 
 ### AI工具集导航网站:
 - https://ai-bot.cn/ - 第一次加载较慢
