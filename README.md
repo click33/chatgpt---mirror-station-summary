@@ -10,30 +10,29 @@
 
 
 ### 无需登录直接可用的：
-- https://itedus.cn
-- https://chatbot.theb.ai/
-- https://openai.run/
-- https://openai.nm.cn/
-- https://chat-shared.zhile.io/shared.html
-- https://chat.aichatos.top/
-- https://chat.ttext.cn/
-- https://chat.wuguokai.cn
-- https://chatgpt.nicelinks.site/
-- http://ai.yscxy.net/
-- https://chat.gpthink.top/#/chat
-- https://chat.binjie.site:7777
-- https://chat.jinshutuan.com/
-- https://chatgpt.0voice.com/#/chat
-- http://duckling.buzz/
-- https://aiweb.douguguo.com/
-- https://chat.openai.run/
-- https://chat.gpthink.top
-- https://chatmindai.cn
-- https://www.ebo168.com/
-- https://chat.getgpt.com.cn/
-- https://studyai.life/
-- https://chat1.aichatos.com/
-- https://chat.extkj.cn/
+- https://itedus.cn - 免费但需要关注公众号
+- https://chatbot.theb.ai/ - 服务不稳定可能无法访问
+- https://openai.run/ - 非会员每日免费额度 10,000 Tokens
+- https://openai.nm.cn/ - 免费共用同一个账号查询速度慢
+- https://chat-shared.zhile.io/shared.html - 免费网友共享 ChatGPT 账号
+- https://chat.aichatos.top/ - 免费由开发者提供
+- https://chat.ttext.cn/ - 免费时限制每小时6次提问
+- https://chat.wuguokai.cn - 免费由开发者提供
+- https://chatgpt.nicelinks.site/ - 免费使用频次有限制
+- http://ai.yscxy.net/ - 免费由开发者提供
+- https://chat.gpthink.top/#/chat - 免费由开发者提供
+- https://chat.binjie.site:7777 - 自动跳转 https://chat.jinshutuan.com/
+- https://chat.jinshutuan.com/ - 免费由开发者提供
+- https://chatgpt.0voice.com/#/chat - 免费由零声教育内部提供使用
+- http://duckling.buzz/ - 免费由开发者提供
+- https://aiweb.douguguo.com/ - 默认同一ip只提供一次免费查询机会
+- https://chat.openai.run/ - 非会员每日免费额度10,000 Tokens
+- https://chatmindai.cn - 免费用户每日可以使用3次GPT4.0
+- https://www.ebo168.com/ - 免费由开发者提供(有广告维持服务)
+- https://chat.getgpt.com.cn/ - 免费但每次请求限制返回token长度最长1000
+- https://studyai.life/  - 每个公网ip限制使用10次之后必须付费
+- https://chat1.aichatos.com/ - 服务不稳定可能无法访问
+- https://chat.extkj.cn/ - 免费由开发者提供(有广告维持服务)
 
 
 ### 登录后可以免费使用的：
