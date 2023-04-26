@@ -36,7 +36,7 @@
 - https://beezy.cool/ - 官网下载插件使用
 - https://chat.aidutu.cn - 免费需要关注微信公众号
 - https://chatgpt.qdymys.cn/ 免费有调用频率限制
-
+- https://chat.wikll.com/ - 可直接免费使用
 
 ### 登录后可以免费使用的：
 - https://ai.gcchen.cn/ - 星云 AI
