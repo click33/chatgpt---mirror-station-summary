@@ -50,7 +50,7 @@
 - http://chatgpt.bainaark.top/index.php
 - https://chat.mac89.com/
 - https://front2.stargpt.top/#/chat
-
+- https://chatgpt.ctfcode.com/#/register
 
 ### 需要付费的：
 - https://gpt4u.top
