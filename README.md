@@ -42,7 +42,7 @@
 - https://ai.yunweikc.com/ - 昀为AI
 - https://chatbot.js.cn - AI小助理
 - http://chat.forwardminded.xyz/
-- https://gezhe.com/
+- https://gezhe.com/ - 歌者AI
 - http://www.gpt-smart.com/
 - https://app.haitunchat.com/login/
 - http://chatgpt.bainaark.top/index.php
