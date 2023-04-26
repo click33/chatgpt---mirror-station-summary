@@ -34,6 +34,7 @@
 - https://chat1.aichatos.com/ - 服务不稳定可能无法访问
 - https://chat.extkj.cn/ - 免费由开发者提供(有广告维持服务)
 - https://beezy.cool/ - 官网下载插件使用
+- https://chat.aidutu.cn - 免费需要关注微信公众号
 
 
 ### 登录后可以免费使用的：
