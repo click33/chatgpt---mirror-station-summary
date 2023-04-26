@@ -51,6 +51,7 @@
 
 ### 需要付费的：
 - https://gpt4u.top
+- https://www.openai-asia.com - 国内邮箱注册支持支付宝付款
 
 
 ### 需要自己提供 key 的：
