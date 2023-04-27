@@ -20,7 +20,7 @@
 - https://chat.wuguokai.cn - 免费由开发者提供
 - https://chatgpt.nicelinks.site/ - 免费使用频次有限制
 - http://ai.yscxy.net/ - 免费由开发者提供
-- https://chat.gpthink.top/#/chat - 免费由开发者提供
+- https://chat.gpthink.top/#/chat - 无法访问 免费由开发者提供
 - https://chat.binjie.site:7777 - 自动跳转 https://chat.jinshutuan.com/
 - https://chat.jinshutuan.com/ - 免费由开发者提供
 - https://chatgpt.0voice.com/#/chat - 免费由零声教育内部提供使用
@@ -32,7 +32,7 @@
 - https://chat.getgpt.com.cn/ - 免费但每次请求限制返回token长度最长1000
 - https://studyai.life/  - 每个公网ip限制使用10次之后必须付费
 - https://chat1.aichatos.com/ - 服务不稳定可能无法访问
-- https://chat.extkj.cn/ - 免费由开发者提供(有广告维持服务)
+- https://chat.extkj.cn/ - 访问404  免费由开发者提供(有广告维持服务)
 - https://beezy.cool/ - 官网下载插件使用
 - https://chat.aidutu.cn - 免费需要关注微信公众号
 - https://chatgpt.qdymys.cn/ 免费有调用频率限制
