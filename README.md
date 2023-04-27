@@ -38,6 +38,7 @@
 - https://chatgpt.qdymys.cn/ 免费有调用频率限制
 - https://chat.wikll.com/ - 可直接免费使用
 - https://gpt.mqgggg.top/ - 可直接免费使用
+- https://huggingface.co/chat/ - 开源模型(默认用英文回复,可以通过对话限制返回的语言)
 
 ### 登录后可以免费使用的：
 - https://ai.gcchen.cn/ - 星云 AI
