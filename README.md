@@ -37,6 +37,7 @@
 - https://chat.aidutu.cn - 免费需要关注微信公众号
 - https://chatgpt.qdymys.cn/ 免费有调用频率限制
 - https://chat.wikll.com/ - 可直接免费使用
+- https://gpt.mqgggg.top/ - 可直接免费使用
 
 ### 登录后可以免费使用的：
 - https://ai.gcchen.cn/ - 星云 AI
@@ -71,6 +72,7 @@
 - https://gitee.com/aniu-666/chat-gpt-website
 - https://github.com/hncboy/chatgpt-web-java
 - https://github.com/getcursor/cursor - 使用Ai来辅助编程
+- http://be.apeto.cn/archives/shang-ye-ban-chatgpt - 商业可部署chatgpt项目(演示地址:http://chat.apeto.cn)
 
 
 ### 国内自研大模型汇总：
