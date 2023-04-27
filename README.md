@@ -53,6 +53,7 @@
 - https://front2.stargpt.top/#/chat
 - https://chatgpt.ctfcode.com/#/register
 - http://chat.niitcxl.cn
+- https://slack.com - 使用流程[参考](https://mp.weixin.qq.com/s/XECDWPv3CRrHfWmoxGLTvg)
 
 ### 需要付费的：
 - https://gpt4u.top
