@@ -83,6 +83,7 @@
 - https://xinghuo.xfyun.cn/ - 讯飞星火认知大模型
 - https://moss.fastnlp.top/ - Moss，复旦团队出品
 - https://www.so.com/zt/invite.html#/ - 360智脑，360出品
+- https://github.com/THUDM/ChatGLM-6B - ChatGLM-6B 清华大学唐杰团队开发
 
 
 ### 插件：
