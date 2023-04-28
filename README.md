@@ -16,7 +16,6 @@
 - https://openai.nm.cn/ - 免费共用同一个账号查询速度慢
 - https://chat-shared.zhile.io/shared.html - 免费网友共享 
 - https://chat.darkhorseone.cn/ - 代码一号
-- ChatGPT 账号
 - https://chat.aichatos.top/ - 免费由开发者提供
 - https://chat.ttext.cn/ - 免费时限制每小时6次提问
 - https://chat.wuguokai.cn - 免费由开发者提供
