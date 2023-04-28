@@ -108,7 +108,7 @@
 - https://writesonic.com/ - AI 帮你文案策划
 - https://fliki.ai/ - 将文本变成带有 AI 语音的视频
 - https://www.midjourney.com/ - Midjourney，AI 画图 
-- https://yige.baidu.com/ - AI 作图，百度出品
+- https://yige.baidu.com/ - 文心一格，AI 作图，百度出品
 
 
 
