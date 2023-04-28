@@ -61,6 +61,8 @@
 - http://chat.niitcxl.cn
 - https://dittin.com/ - 谛听提示词
 - https://chat.yokonsan.com/ - 必须要先关注公众号
+- https://chat.douresources.com - 需要微信登录、聊天免费、支持上下文关联、有AI绘画
+
 
 ### 需要付费的：
 - https://gpt4u.top
