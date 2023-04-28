@@ -103,10 +103,11 @@
 
 
 ### 其它多模态 AI 技术：
-- https://github.com/CompVis/stable-diffusion - [ 开源 ] AI 画图
-- https://github.com/getcursor/cursor - [ 开源 ] 使用Ai来辅助编程
+- https://github.com/CompVis/stable-diffusion - Stable Diffusion，AI 画图 [ 开源 ]
+- https://github.com/getcursor/cursor - Cursor，使用Ai来辅助编程 [ 开源 ]
 - https://writesonic.com/ - AI 帮你文案策划
 - https://fliki.ai/ - 将文本变成带有 AI 语音的视频
+- https://www.midjourney.com/ - Midjourney，AI 画图 
 
 
 
