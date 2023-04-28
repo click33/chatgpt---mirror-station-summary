@@ -102,3 +102,5 @@
 ### AI工具集导航网站:
 - https://ai-bot.cn/ - 第一次加载较慢
 - https://www.aiyjs.com/ - AI工具集导航网站
+- https://www.aigc.cn/ - AIGC 导航网站
+- https://www.ainav.net/ - AI工具集导航网站
