@@ -60,6 +60,7 @@
 - https://chatgpt.ctfcode.com/#/register
 - http://chat.niitcxl.cn
 - https://dittin.com/ - 谛听提示词
+- https://chat.yokonsan.com/ - 必须要先关注公众号
 
 ### 需要付费的：
 - https://gpt4u.top
