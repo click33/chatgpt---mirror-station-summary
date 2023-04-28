@@ -98,8 +98,8 @@
 
 
 ### 国外其它大模型汇总：
-- https://slack.com - 使用流程[参考](https://mp.weixin.qq.com/s/XECDWPv3CRrHfWmoxGLTvg)
 - https://talk.truthgpt.one/ - 马斯克出品，无需魔法，无需注册账号，直接使用。
+- https://slack.com - 使用流程[参考](https://mp.weixin.qq.com/s/XECDWPv3CRrHfWmoxGLTvg)
 
 
 ### 其它多模态 AI 技术：
@@ -107,8 +107,8 @@
 - https://github.com/getcursor/cursor - Cursor，使用Ai来辅助编程 [ 开源 ]
 - https://writesonic.com/ - AI 帮你文案策划
 - https://fliki.ai/ - 将文本变成带有 AI 语音的视频
-- https://www.midjourney.com/ - Midjourney，AI 画图 
 - https://yige.baidu.com/ - 文心一格，AI 作图，百度出品
+- https://www.midjourney.com/ - Midjourney，AI 画图 
 - https://gamma.app/ - Gamma，AI 帮你生成 PPT 
 
 
