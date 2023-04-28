@@ -58,6 +58,7 @@
 - https://chatgpt.ctfcode.com/#/register
 - http://chat.niitcxl.cn
 - https://slack.com - 使用流程[参考](https://mp.weixin.qq.com/s/XECDWPv3CRrHfWmoxGLTvg)
+- https://dittin.com/ - 谛听提示词
 
 ### 需要付费的：
 - https://gpt4u.top
