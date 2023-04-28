@@ -59,7 +59,6 @@
 - https://front2.stargpt.top/#/chat
 - https://chatgpt.ctfcode.com/#/register
 - http://chat.niitcxl.cn
-- https://slack.com - 使用流程[参考](https://mp.weixin.qq.com/s/XECDWPv3CRrHfWmoxGLTvg)
 - https://dittin.com/ - 谛听提示词
 
 ### 需要付费的：
@@ -79,8 +78,12 @@
 - https://github.com/Chanzhaoyu/chatgpt-web
 - https://gitee.com/aniu-666/chat-gpt-website
 - https://github.com/hncboy/chatgpt-web-java
-- https://github.com/getcursor/cursor - 使用Ai来辅助编程
 - http://be.apeto.cn/archives/shang-ye-ban-chatgpt - 商业可部署chatgpt项目(演示地址:http://chat.apeto.cn)
+
+
+### 插件：
+- https://www.wetab.link/zh/ - Edge浏览器插件（邮箱登录后免费使用）
+- https://chatgpt.cn.obiscr.com/ - 在 idea 上使用 chatgpt
 
 
 ### 国内自研大模型汇总：
@@ -94,9 +97,17 @@
 - https://github.com/THUDM/ChatGLM-6B - ChatGLM-6B 清华大学唐杰团队开发
 
 
-### 插件：
-- https://www.wetab.link/zh/ - Edge浏览器插件（邮箱登录后免费使用）
-- https://chatgpt.cn.obiscr.com/ - 在 idea 上使用 chatgpt
+### 国外其它大模型汇总：
+- https://slack.com - 使用流程[参考](https://mp.weixin.qq.com/s/XECDWPv3CRrHfWmoxGLTvg)
+- https://truthgpt.one/ - 马斯克出品，无需魔法，无需注册账号，直接使用。
+
+
+### 其它多模态 AI 技术：
+- https://github.com/CompVis/stable-diffusion - [开源] AI 画图
+- https://github.com/getcursor/cursor - [开源] 使用Ai来辅助编程
+- https://writesonic.com/ - AI 帮你文案策划
+- https://fliki.ai/ - 将文本变成带有 AI 语音的视频
+
 
 
 ### AI工具集导航网站:
