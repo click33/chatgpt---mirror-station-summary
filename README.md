@@ -65,6 +65,8 @@
 - https://chat.yokonsan.com/ - 必须要先关注公众号
 - https://chat.douresources.com - 需要微信登录、聊天免费、支持上下文关联、有AI绘画
 - https://gpthink.xyz/#/chat - 需要邮箱注册登录,可以开启上下文对话
+- https://gpt.fly2you.cn/web/ - 需要微信扫码，或者手机号登录
+
 
 ### 需要付费的：
 - https://chatgpt-cn.co - 微信注册，微信/支付宝付款，按Token收费
