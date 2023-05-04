@@ -44,6 +44,7 @@
 - https://h2o.ai/ - 国外开源可访问模型(可以使用中文回复,当前时间无法理解上下文)
 - https://chatgptmirror.com/ - 前三次无需登录免费(之后需要登录)
 - http://huangkz.chat - 可直接免费使用
+- https://openai.tdp.icu - 免费由腾讯TDP若海提供使用
 
 
 ### 登录后可以免费使用的：
