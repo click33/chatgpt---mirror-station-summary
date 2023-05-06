@@ -47,6 +47,7 @@
 - https://chatgptmirror.com/ - 前三次无需登录免费(之后需要登录)
 - http://huangkz.chat - 可直接免费使用
 - https://openai.tdp.icu - 免费由腾讯TDP若海提供使用
+- http://ai.apemangpt.com/
 
 
 ### 登录后可以免费使用的：
