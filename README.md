@@ -10,6 +10,7 @@
 
 
 ### 无需登录直接可用的：
+- http://s.wikll.com - 可直接免费使用
 - http://ai.wikll.com - 可直接免费使用
 - http://chat.iisai.cn - 可直接免费使用
 - http://mychatos.top/#/chat - 免费由开发者提供
