@@ -52,6 +52,7 @@
 
 
 ### 登录后可以免费使用的：
+- https://chat-site.top/ chatSite AI 非会员每日免费额度 3000~10,000 Tokens 响应速度很快
 - https://ai.gcchen.cn/ - 星云 AI
 - http://chat.apeto.cn/ - Genius
 - https://ai.yunweikc.com/ - 昀为AI
