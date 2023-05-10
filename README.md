@@ -49,6 +49,7 @@
 - http://huangkz.chat - 可直接免费使用
 - https://openai.tdp.icu - 免费由腾讯TDP若海提供使用
 - http://ai.apemangpt.com/
+- https://bestai.litongxue.icu/  免费体验有次数限制
 
 
 ### 登录后可以免费使用的：
