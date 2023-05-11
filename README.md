@@ -51,6 +51,7 @@
 - https://openai.tdp.icu - 免费由腾讯TDP若海提供使用
 - http://ai.apemangpt.com/
 - https://bestai.litongxue.icu/  免费体验有次数限制
+- https://ai.zhangsan.cloud/ - 个人免费提供
 
 
 ### 登录后可以免费使用的：
@@ -82,6 +83,7 @@
 - https://www.openai-asia.com - 国内邮箱注册支持支付宝付款
 - https://static-mp-1bc4f84b-cb57-4859-b32d-1ff3a3b3a3f1.next.bspapp.com/ - 建议手机访问
 - https://tryai1.github.io/
+- https://yanghanwen.xyz/
 
 
 ### 需要自己提供 key 的：
