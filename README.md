@@ -12,46 +12,47 @@
 ### 无需登录直接可用的：
 - http://chat.nxshi.cn  - 免费由开发者提供
 - http://s.wikll.com - 可直接免费使用
-- http://ai.wikll.com - 可直接免费使用
-- http://chat.iisai.cn - 可直接免费使用
-- http://mychatos.top/#/chat - 免费由开发者提供
 - https://itedus.cn - 免费但需要关注公众号
-- https://chatbot.theb.ai/ - 服务不稳定可能无法访问
 - https://openai.run/ - 非会员每日免费额度 10,000 Tokens
-- https://openai.nm.cn/ - 免费共用同一个账号查询速度慢
-- https://chat-shared.zhile.io/shared.html - 免费网友共享 
 - https://chat.darkhorseone.cn/ - 代码一号
 - https://chat.aichatos.top/ - 免费由开发者提供(可以开启chatgpt联网功能)
 - https://chat.ttext.cn/ - 免费时限制每小时6次提问
 - https://chat.wuguokai.cn - 免费由开发者提供
 - https://chatgpt.nicelinks.site/ - 免费使用频次有限制
 - http://ai.yscxy.net/ - 免费由开发者提供
-- https://chat.gpthink.top/#/chat - 无法访问 免费由开发者提供
 - https://chat.binjie.site:7777 - 自动跳转 https://chat.jinshutuan.com/
 - https://chat.jinshutuan.com/ - 免费由开发者提供
 - https://chatgpt.0voice.com/#/chat - 免费由零声教育内部提供使用
-- http://duckling.buzz/ - 免费由开发者提供
 - https://aiweb.douguguo.com/ - 默认同一ip只提供一次免费查询机会
-- https://chat.openai.run/ - 非会员每日免费额度10,000 Tokens
-- https://chatmindai.cn - 免费用户每日可以使用3次GPT4.0
 - https://www.ebo168.com/ - 免费由开发者提供(有广告维持服务)
-- https://chat.getgpt.com.cn/ - 免费但每次请求限制返回token长度最长1000
-- https://studyai.life/  - 每个公网ip限制使用10次之后必须付费
-- https://chat1.aichatos.com/ - 服务不稳定可能无法访问
 - https://chat.extkj.cn/ - 访问404  免费由开发者提供(有广告维持服务)
 - https://beezy.cool/ - 官网下载插件使用
 - https://chat.aidutu.cn - 免费需要关注微信公众号
-- https://chatgpt.qdymys.cn/ 免费有调用频率限制
-- https://chat.wikll.com/ - 可直接免费使用
-- https://gpt.mqgggg.top/ - 可直接免费使用
+- https://chatgpt.qdymys.cn/ - 免费有调用频率限制
 - https://huggingface.co/chat/ - 国外开源可访问模型(默认用英文回复,当前时间无法理解上下文)
 - https://h2o.ai/ - 国外开源可访问模型(可以使用中文回复,当前时间无法理解上下文)
 - https://chatgptmirror.com/ - 前三次无需登录免费(之后需要登录)
 - http://huangkz.chat - 可直接免费使用
-- https://openai.tdp.icu - 免费由腾讯TDP若海提供使用
-- http://ai.apemangpt.com/
-- https://bestai.litongxue.icu/  免费体验有次数限制
+- https://bestai.litongxue.icu/ - 免费体验有次数限制
 - https://ai.zhangsan.cloud/ - 个人免费提供
+
+- http://ai.wikll.com - 暂时无法访问
+- http://chat.iisai.cn - 暂时无法访问
+- http://mychatos.top/#/chat - 暂时无法访问
+- https://chatbot.theb.ai/ - 暂时无法访问
+- https://openai.nm.cn/ - 暂时无法访问
+- https://chat-shared.zhile.io/shared.html - 暂时无法访问
+- https://chat.gpthink.top/#/chat - 暂时无法访问
+- http://duckling.buzz/ - 暂时无法访问
+- https://chat.openai.run/ - 暂时无法访问
+- https://chatmindai.cn - 暂时无法访问
+- https://chat.getgpt.com.cn/ - 暂时无法访问
+- https://studyai.life/  - 暂时无法访问
+- https://chat1.aichatos.com/ - 暂时无法访问
+- https://chat.wikll.com/ - 暂时无法访问
+- https://gpt.mqgggg.top/ - 暂时无法访问
+- https://openai.tdp.icu - 暂时无法访问
+
 
 
 ### 登录后可以免费使用的：
@@ -75,6 +76,7 @@
 - https://gpthink.xyz/#/chat - 需要邮箱注册登录,可以开启上下文对话
 - https://gpt.fly2you.cn/web/ - 需要微信扫码，或者手机号登录
 - https://gpt.opengpt88.com/ - 邮箱注册使用
+- http://ai.apemangpt.com/ - 智云小助手
 
 
 ### 需要付费的：
@@ -138,3 +140,7 @@
 - https://www.aiyjs.com/ - AI工具集导航网站
 - https://www.aigc.cn/ - AIGC 导航网站
 - https://www.ainav.net/ - AI工具集导航网站
+
+
+### 提醒:
+所有内容均由大家共同创建, 若发现链接失效或分类不符合标题, 请及时提issue进行纠正.
