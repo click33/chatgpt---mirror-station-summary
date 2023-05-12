@@ -55,7 +55,7 @@
 
 
 ### 登录后可以免费使用的：
-- https://chat-site.top/ chatSite AI 非会员每日免费额度 3000~10,000 Tokens 响应速度很快
+- https://chat-site.top/ - chatSite AI 非会员每日免费额度 3000~10,000 Tokens 响应速度很快
 - https://ai.gcchen.cn/ - 星云 AI
 - http://chat.apeto.cn/ - Genius
 - https://ai.yunweikc.com/ - 昀为AI
@@ -110,12 +110,12 @@
 ### 国内自研大模型汇总：
 - https://yiyan.baidu.com/ - 文心一言，百度出品
 - https://tongyi.aliyun.com/ - 通义千问，阿里出品
-- https://techday.sensetime.com/ - 商量，商汤科技出品
-- https://tiangong.kunlun.com/ - 天工AI助手，天工大模型
-- https://xinghuo.xfyun.cn/ - 讯飞星火认知大模型
+- https://techday.sensetime.com/ - SenseTime，商汤科技出品
+- https://tiangong.kunlun.com/ - 天工AI助手，昆仑万维集团
+- https://xinghuo.xfyun.cn/ - 星火认知大模型，讯飞
 - https://moss.fastnlp.top/ - Moss，复旦团队出品
 - https://www.so.com/zt/invite.html - 360智脑，360出品
-- https://github.com/THUDM/ChatGLM-6B - ChatGLM-6B 清华大学唐杰团队开发
+- https://github.com/THUDM/ChatGLM-6B - ChatGLM-6B，清华大学唐杰团队开发
 
 
 ### 国外其它大模型汇总：
