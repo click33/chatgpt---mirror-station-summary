@@ -140,6 +140,7 @@
 - https://www.aiyjs.com/ - AI工具集导航网站
 - https://www.aigc.cn/ - AIGC 导航网站
 - https://www.ainav.net/ - AI工具集导航网站
+- https://c.runoob.com/ai/ - 菜鸟工具
 
 
 ### 提醒:
