@@ -81,7 +81,7 @@
 
 ### 需要付费的：
 - https://chatgpt-cn.co - 微信注册，微信/支付宝付款，按Token收费
-- https://gpt4u.top
+- https://gpt4u.top - 自研的联网GPT，支持联网上下文，根据实时联网数据清洗算法打造
 - https://www.openai-asia.com - 国内邮箱注册支持支付宝付款
 - https://static-mp-1bc4f84b-cb57-4859-b32d-1ff3a3b3a3f1.next.bspapp.com/ - 建议手机访问
 - https://tryai1.github.io/
