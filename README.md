@@ -77,6 +77,7 @@
 - https://gpt.opengpt88.com/ - 邮箱注册使用
 - http://ai.apemangpt.com/ - 智云小助手
 - http://www.xckfsq.com/index/chatgpt - 信创开放平台
+- https://zhihuibao.pro/ - 智慧宝注册赠送36000免费token, 之后需要付费. 可以使用gpt-3.5-turbo和gpt-4
 
 
 ### 需要付费的：
