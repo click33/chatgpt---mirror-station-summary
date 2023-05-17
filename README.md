@@ -35,6 +35,7 @@
 - http://huangkz.chat - 可直接免费使用
 - https://bestai.litongxue.icu/ - 免费体验有次数限制
 - https://ai.zhangsan.cloud/ - 个人免费提供
+- https://.chat.08qt.com - 免费可用
 - http://ai.wikll.com - 暂时无法访问
 - http://chat.iisai.cn - 暂时无法访问
 - http://mychatos.top/#/chat - 暂时无法访问
