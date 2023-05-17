@@ -35,6 +35,8 @@
 - http://huangkz.chat - 可直接免费使用
 - https://bestai.litongxue.icu/ - 免费体验有次数限制
 - https://ai.zhangsan.cloud/ - 个人免费提供
+- https://.chat.08qt.com - 免费可用
+- https://ai.pmaigc.com/ - 免费需要关注微信公众号,也可以选择使用自己的API-KEY https://www.pmmaster.cc/ (导航栏有访问路径)
 - http://ai.wikll.com - 暂时无法访问
 - http://chat.iisai.cn - 暂时无法访问
 - http://mychatos.top/#/chat - 暂时无法访问
@@ -94,6 +96,7 @@
 - http://www.aihu003.me/
 - https://gpt.dizent.cn/
 - https://chat.okis.dev/zh-CN?mode=chat
+- https://ai.pmaigc.com/
 
 
 ### 开源的，可以自己部署到本地的：
