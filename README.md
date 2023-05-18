@@ -10,6 +10,7 @@
 
 
 ### 无需登录直接可用的：
+- https://chataibase.com  - 免费使用（未登陆每小时10次登陆后每小时30次）
 - http://chat.nxshi.cn  - 免费由开发者提供
 - http://s.wikll.com - 可直接免费使用
 - https://itedus.cn - 免费但需要关注公众号
