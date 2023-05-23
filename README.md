@@ -129,6 +129,7 @@
 
 ### 国外其它大模型汇总：
 - https://talk.truthgpt.one/ - 马斯克出品，无需魔法，无需注册账号，直接使用。
+- https://bard.google.com/ - 谷歌出品，需魔法。
 - https://slack.com - 使用流程[参考](https://mp.weixin.qq.com/s/XECDWPv3CRrHfWmoxGLTvg)
 
 
