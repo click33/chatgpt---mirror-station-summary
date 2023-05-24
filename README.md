@@ -116,6 +116,7 @@
 ### 插件：
 - https://www.wetab.link/zh/ - Edge浏览器插件（邮箱登录后免费使用）
 - https://chatgpt.cn.obiscr.com/ - 在 idea 上使用 chatgpt
+- https://monica.im/ - Chrome或Edge浏览器安装插件
 
 
 ### 国内自研大模型汇总：
