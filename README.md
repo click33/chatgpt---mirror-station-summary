@@ -56,6 +56,8 @@
 - http://s.wikll.com - 暂时无法访问(2023/05/22)
 - http://huangkz.chat - 暂时无法访问(2023/05/22)
 - https://ai.zhangsan.cloud/ - 暂时无法访问(2023/05/22)
+- https://chat.acheckling.com.cn/ - 免费由开发者提供
+- [这个真的不建议使用，有点膈应人](https://chatgpt.acheckling.com.cn/) - [WuchenChina](https://www.acheckling.com.cn/)提供
 
 
 ### 登录后可以免费使用的：
@@ -85,6 +87,7 @@
 - https://gpt.fly2you.cn/web/ - 暂时无法访问(2023/05/22)
 - https://gpt.opengpt88.com/ - 暂时无法访问(2023/05/22)
 - http://ai.apemangpt.com/ - 暂时无法访问(2023/05/22)
+- https://ai.shenhuo.net/ - 暂时无法访问(2023/05/24)
 
 
 ### 需要付费的：
