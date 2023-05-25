@@ -120,6 +120,7 @@
 - https://www.wetab.link/zh/ - Edge浏览器插件（邮箱登录后免费使用）
 - https://chatgpt.cn.obiscr.com/ - 在 idea 上使用 chatgpt
 - https://monica.im/ - Chrome或Edge浏览器安装插件
+- https://bito.ai/-bito idea插件，在idea中搜索即可（注册登录即可免费使用，必须联网使用，外网较慢）
 
 
 ### 国内自研大模型汇总：
