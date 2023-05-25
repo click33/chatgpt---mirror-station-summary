@@ -30,7 +30,7 @@
 - https://huggingface.co/chat/ - 国外开源可访问模型(默认用英文回复,当前时间无法理解上下文)
 - https://h2o.ai/ - 国外开源可访问模型(可以使用中文回复,当前时间无法理解上下文)
 - https://bestai.litongxue.icu/ - 免费体验有次数限制
-- https://chat.08qt.com - 免费可用
+- https://ai.08qt.com/ - 免费可用
 - https://www.pmmaster.cc - 免费需要关注微信公众号,也可以选择使用自己的API-KEY / (导航栏有访问路径)
 - https://gpt.368ai.cn/ - 免费试用三次提问
 - https://chatanywhere.top/ - 免费试用
