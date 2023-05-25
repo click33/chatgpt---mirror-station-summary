@@ -27,15 +27,16 @@
 - https://chat.extkj.cn/ - 访问404  免费由开发者提供(有广告维持服务)
 - https://beezy.cool/ - 官网下载插件使用
 - https://chat.aidutu.cn - 免费需要关注微信公众号
-- https://chatgpt.qdymys.cn/ - 免费有调用频率限制
 - https://huggingface.co/chat/ - 国外开源可访问模型(默认用英文回复,当前时间无法理解上下文)
 - https://h2o.ai/ - 国外开源可访问模型(可以使用中文回复,当前时间无法理解上下文)
-- https://chatgptmirror.com/ - 前三次无需登录免费(之后需要登录)
 - https://bestai.litongxue.icu/ - 免费体验有次数限制
 - https://chat.08qt.com - 免费可用
 - https://www.pmmaster.cc - 免费需要关注微信公众号,也可以选择使用自己的API-KEY / (导航栏有访问路径)
 - https://gpt.368ai.cn/ - 免费试用三次提问
 - https://chatanywhere.top/ - 免费试用
+- https://chat.acheckling.com.cn/ - 免费由开发者提供
+- https://chatgpt.acheckling.com.cn/ - 前置语境可能引起不适, 由[WuchenChina](https://www.acheckling.com.cn/)提供
+- https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
 - http://chat.iisai.cn - 暂时无法访问(2023/05/22)
 - http://mychatos.top/#/chat - 暂时无法访问(2023/05/22)
@@ -56,8 +57,7 @@
 - http://s.wikll.com - 暂时无法访问(2023/05/22)
 - http://huangkz.chat - 暂时无法访问(2023/05/22)
 - https://ai.zhangsan.cloud/ - 暂时无法访问(2023/05/22)
-- https://chat.acheckling.com.cn/ - 免费由开发者提供
-- [这个真的不建议使用，有点膈应人](https://chatgpt.acheckling.com.cn/) - [WuchenChina](https://www.acheckling.com.cn/)提供
+- https://chatgptmirror.com/ - 暂时无法访问(2023/05/25)
 
 
 ### 登录后可以免费使用的：
