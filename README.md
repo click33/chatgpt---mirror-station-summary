@@ -147,7 +147,7 @@
 - https://yige.baidu.com/ - 文心一格，AI 作图，百度出品
 - https://www.midjourney.com/ - Midjourney，AI 画图 
 - https://gamma.app/ - Gamma，AI 帮你生成 PPT 
-- https://fliki.ai/ - 暂时无法访问(2023/05/22)
+- https://fliki.ai/ - fliki 通过文本自动生成AI配音的视频
 
 
 
