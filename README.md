@@ -10,6 +10,7 @@
 
 
 ### 无需登录直接可用的：
+- http://chatai.youyancn.com/ - 免费由开发者提供
 - https://chat.jinshutuan.com/ - 免费由开发者提供
 - https://itedus.cn - 免费但需要关注公众号
 - https://openai.run/ - 非会员每日免费额度 10,000 Tokens
