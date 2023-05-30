@@ -60,6 +60,7 @@
 - http://huangkz.chat - 暂时无法访问(2023/05/22)
 - https://ai.zhangsan.cloud/ - 暂时无法访问(2023/05/22)
 - https://chatgptmirror.com/ - 暂时无法访问(2023/05/25)
+- http://chatai.youyancn.com/ - 暂时无法访问(2023/05/30)
 
 ### 登录后可以免费使用的：
 
