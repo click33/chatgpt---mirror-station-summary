@@ -64,7 +64,6 @@
 
 ### 登录后可以免费使用的：
 
-- https://so.csdn.net/so/ai - CSDN和外部合作伙伴联合研发的生成式AI产品(暂时免费测试,可以辅助编程)
 - https://ai.gcchen.cn/ - 星云 AI
 - http://chat.apeto.cn/ - Genius
 - https://ai.yunweikc.com/ - 昀为AI
@@ -101,6 +100,7 @@
 - https://static-mp-1bc4f84b-cb57-4859-b32d-1ff3a3b3a3f1.next.bspapp.com/ - 建议手机访问
 - https://tryai1.github.io/
 - https://god.supperjoy.online
+- https://so.csdn.net/so/ai - CSDN和外部合作伙伴联合研发的生成式AI产品(每天5次免费提问)
 - https://yanghanwen.xyz/ - 暂时无法访问(2023/05/22)
 
 ### 需要自己提供 key 的：
