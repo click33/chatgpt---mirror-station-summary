@@ -64,6 +64,7 @@
 
 ### 登录后可以免费使用的：
 
+- https://so.csdn.net/so/ai - CSDN和外部合作伙伴联合研发的生成式AI产品(暂时免费测试,可以辅助编程)
 - https://ai.gcchen.cn/ - 星云 AI
 - http://chat.apeto.cn/ - Genius
 - https://ai.yunweikc.com/ - 昀为AI
