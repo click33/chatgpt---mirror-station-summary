@@ -38,6 +38,7 @@
 - https://chat.acheckling.com.cn/ - 免费由开发者提供
 - https://chatgpt.acheckling.com.cn/ - 前置语境可能引起不适, 由[WuchenChina](https://www.acheckling.com.cn/)提供
 - https://ai.douresources.com - 免费但需要关注公众号
+- https://www.mygptpro.online - 未来之眼AI, 可能需要关注公众号
 - https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
 - http://chat.iisai.cn - 暂时无法访问(2023/05/22)
