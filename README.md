@@ -160,6 +160,7 @@
 - https://www.aigc.cn/ - AIGC 导航网站
 - https://www.ainav.net/ - AI工具集导航网站
 - https://c.runoob.com/ai/ - 菜鸟工具
+- https://d0424.ai55.cc/ - 公众号:赞美青春
 
 ### 提醒:
 
