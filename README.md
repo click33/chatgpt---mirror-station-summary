@@ -103,6 +103,7 @@
 - https://tryai1.github.io/
 - https://god.supperjoy.online
 - https://so.csdn.net/so/ai - CSDN和外部合作伙伴联合研发的生成式AI产品(每天5次免费提问)
+- http://103.118.41.167:53000/ - Ai4U(来源: hutool广告)
 - https://yanghanwen.xyz/ - 暂时无法访问(2023/05/22)
 
 ### 需要自己提供 key 的：
