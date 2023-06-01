@@ -97,13 +97,11 @@
 ### 需要付费的：
 
 - https://chatgpt-cn.co - 微信注册，微信/支付宝付款，按Token收费
-- https://ai4u.cloud - 自研的联网AI，支持联网上下文，根据实时联网数据清洗算法打造
 - https://www.openai-asia.com - 国内邮箱注册支持支付宝付款
 - https://static-mp-1bc4f84b-cb57-4859-b32d-1ff3a3b3a3f1.next.bspapp.com/ - 建议手机访问
 - https://tryai1.github.io/
 - https://god.supperjoy.online
 - https://so.csdn.net/so/ai - CSDN和外部合作伙伴联合研发的生成式AI产品(每天5次免费提问)
-- http://103.118.41.167:53000/ - Ai4U(来源: hutool广告)
 - https://yanghanwen.xyz/ - 暂时无法访问(2023/05/22)
 
 ### 需要自己提供 key 的：
