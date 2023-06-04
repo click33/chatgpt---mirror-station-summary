@@ -79,7 +79,7 @@
 - http://www.xckfsq.com/index/chatgpt - 信创开放平台
 - https://zhihuibao.pro/ - 智慧宝注册赠送36000免费token, 之后需要付费. 可以使用gpt-3.5-turbo和gpt-4
 - https://joychat.cceven.cc/ - JoyChat 悦聊助手, 支持上下文关联
-- https://itgpt.owley.co/ - gpt知识库
+- https://www.itgpt.icu/ - gpt知识库
 - https://hugai.vip/ - chatgpt3.5(为防止被封使用文心一言的名称)
 - http://chat.612ch.com/ - 智能咨询小天使(GPT3.5 每日免费提问20次不限Token)
 - http://chatsite.chat/ - 暂时无法访问(2023/05/22)
