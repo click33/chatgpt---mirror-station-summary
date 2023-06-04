@@ -38,6 +38,7 @@
 - https://chatgpt.acheckling.com.cn/ - 前置语境可能引起不适, 由[WuchenChina](https://www.acheckling.com.cn/)提供
 - https://ai.douresources.com - 免费但需要关注公众号
 - https://www.mygptpro.online - 未来之眼AI, 可能需要关注公众号
+- https://home.xiamis.xyz - 需要关注公众号
 - https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
 - http://chat.iisai.cn - 暂时无法访问(2023/05/22)
@@ -61,7 +62,6 @@
 - https://ai.zhangsan.cloud/ - 暂时无法访问(2023/05/22)
 - https://chatgptmirror.com/ - 暂时无法访问(2023/05/25)
 - http://chatai.youyancn.com/ - 暂时无法访问(2023/05/30)
-
 ### 登录后可以免费使用的：
 
 - https://ai.gcchen.cn/ - 星云 AI
@@ -93,6 +93,8 @@
 - http://ai.apemangpt.com/ - 暂时无法访问(2023/05/22)
 - https://ai.shenhuo.net/ - 暂时无法访问(2023/05/24)
 - https://www.tomchat.online/
+- https://openai-a.chat - 邮箱注册
+
 
 ### 需要付费的：
 
