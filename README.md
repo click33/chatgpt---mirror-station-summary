@@ -40,7 +40,7 @@
 - https://www.mygptpro.online - 未来之眼AI, 可能需要关注公众号
 - https://home.xiamis.xyz - 需要关注公众号
 - http://chat.modelswitch.com/ - 未注册每个ip免费5次，每月9.9元
-- bioinfortree.asia - 关注公众号后免费试用
+- https://www.bioinfortree.asia/ - 关注公众号后免费试用
 - https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
 - http://chat.iisai.cn - 暂时无法访问(2023/05/22)
@@ -64,6 +64,8 @@
 - https://ai.zhangsan.cloud/ - 暂时无法访问(2023/05/22)
 - https://chatgptmirror.com/ - 暂时无法访问(2023/05/25)
 - http://chatai.youyancn.com/ - 暂时无法访问(2023/05/30)
+
+
 ### 登录后可以免费使用的：
 
 - https://ai.gcchen.cn/ - 星云 AI
@@ -84,6 +86,7 @@
 - https://www.itgpt.icu/ - gpt知识库
 - https://hugai.vip/ - chatgpt3.5(为防止被封使用文心一言的名称)
 - http://chat.612ch.com/ - 智能咨询小天使(GPT3.5 每日免费提问20次不限Token)
+- https://workhardai.com/ - 在微信内置浏览器内打开再开个浮窗，简直不要太方便。
 - http://chatsite.chat/ - 暂时无法访问(2023/05/22)
 - http://www.gpt-smart.com/ - 暂时无法访问(2023/05/22)
 - https://front2.stargpt.top/#/chat - 暂时无法访问(2023/05/22)
