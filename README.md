@@ -43,6 +43,7 @@
 - https://home.xiamis.xyz - 需要关注公众号
 - http://chat.modelswitch.com/ - 未注册每个ip免费5次，每月9.9元
 - https://www.bioinfortree.asia/ - 关注公众号后免费试用
+- https://chat.newstop.asia - 免费，可选模版，不用登录，不限次数gpt3.5
 - https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
 - http://chat.iisai.cn - 暂时无法访问(2023/05/22)
