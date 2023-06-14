@@ -172,6 +172,7 @@
 - https://www.ainav.net/ - AI工具集导航网站
 - https://c.runoob.com/ai/ - 菜鸟工具
 - https://d0424.ai55.cc/ - 公众号:赞美青春
+- http://hao.94c.cn/ - 好导航就是c
 
 ### 提醒:
 
