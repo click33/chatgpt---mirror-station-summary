@@ -10,6 +10,7 @@
 
 ### 无需登录直接可用的：
 
+- https://www.zxf7460.cn/home - GPT-3.5-16k免费使用，吐字块，每日20次数，不需要登陆
 - https://thechat.flares.ai - GPT-3.5免费使用，不限制次数，不需要登陆，登陆可用GPT-4
 - https://chat.jinshutuan.com/ - 免费由开发者提供
 - https://itedus.cn - 免费但需要关注公众号
