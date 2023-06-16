@@ -44,6 +44,9 @@
 - http://chat.modelswitch.com/ - 未注册每个ip免费5次，每月9.9元
 - https://www.bioinfortree.asia/ - 关注公众号后免费试用
 - https://chat.newstop.asia - 免费，可选模版，不用登录，不限次数gpt3.5
+- https://free.easychat.work - 支持ddg搜索以及google bard，免费不限制次数使用gpt-3.5-turbo gpt-3.5-turbo-16k
+- https://www.9ut.cn/ - 打开即用，已稳定运行3个月
+- https://ai.pushplus.plus - 每天免费使用10次，会员10元/月无限制。
 - https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
 - http://chat.iisai.cn - 暂时无法访问(2023/05/22)
