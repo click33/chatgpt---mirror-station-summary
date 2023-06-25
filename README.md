@@ -14,6 +14,7 @@
 - https://chatbot.flares.ai - GPT-3.5免费使用，提供数百种预设角色
 - https://chat.jinshutuan.com/ - 免费由开发者提供
 - https://itedus.cn - 免费但需要关注公众号
+- https://chat.yunai.com.cn -微信扫码一键登录，既有chatGPT功能，也接入了midjourney画图，关注公众号后免费体验，功能强大。
 - https://openai.run/ - 非会员每日免费额度 10,000 Tokens
 - https://chat.darkhorseone.cn/ - 代码一号
 - https://chat.aichatos.top/ - 免费由开发者提供(可以开启chatgpt联网功能)
