@@ -51,6 +51,7 @@
 - https://www.mfzn.top/ - GPT-3.5-16k免费使用，吐字快，无次数限制，不需要登陆
 - https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
 - https://www.jiankaitianmen.com/ - 无需登录免费流畅无限制无广
+- https://ai.aging.run - 无需登陆+快速响应+无限制免费对话/绘画。
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
 - http://chat.iisai.cn - 暂时无法访问(2023/05/22)
 - http://mychatos.top/#/chat - 暂时无法访问(2023/05/22)
