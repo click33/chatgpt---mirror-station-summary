@@ -110,6 +110,7 @@
 - https://www.tomchat.online/
 - https://openai-a.chat - 邮箱注册
 - https://www.im9.cc - 想象智能写作系统，登陆后免费每月4万ChatGPT字数/2张SD绘图
+- https://ai.tgmeng.com - gpt3.5 永久免费开放了
 
 
 ### 需要付费的：
