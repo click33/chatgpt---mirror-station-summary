@@ -9,7 +9,7 @@
 欢迎大家一起贡献，请直接提交 issue 或者 pr （只能提交普通网络下就可以访问成功的）
 
 ### 无需登录直接可用的：
-
+- https://chat.free2gpt.xyz 无需魔法 无需登录 不限次数 无弹窗广告 就该如此方便简洁
 - https://www.zxf7460.cn/home - GPT-3.5-16k免费使用，吐字块，每日20次数，不需要登陆
 - https://chatbot.flares.ai - GPT-3.5免费使用，提供数百种预设角色
 - https://chat.jinshutuan.com/ - 免费由开发者提供
