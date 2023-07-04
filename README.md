@@ -46,12 +46,11 @@
 - https://www.bioinfortree.asia/ - 关注公众号后免费试用
 - https://chat.newstop.asia - 免费，可选模版，不用登录，不限次数gpt3.5
 - https://free.easychat.work - 支持ddg搜索以及google bard，免费不限制次数使用gpt-3.5-turbo gpt-3.5-turbo-16k
-- https://www.9ut.cn/ - 打开即用，已稳定运行3个月
 - https://ai.pushplus.plus - 每天免费使用10次，会员10元/月无限制。
-- https://www.mfzn.top/ - GPT-3.5-16k免费使用，吐字快，无次数限制，不需要登陆
 - https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
 - https://www.jiankaitianmen.com/ - 无需登录免费流畅无限制无广
 - https://ai.aging.run - 无需登陆+快速响应+无限制免费对话/绘画。
+- https://www.77cob.top/ - GPT-3.5-16k ，吐字快，无次数限制，不需要登陆，永久免费
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
 - http://chat.iisai.cn - 暂时无法访问(2023/05/22)
 - http://mychatos.top/#/chat - 暂时无法访问(2023/05/22)
