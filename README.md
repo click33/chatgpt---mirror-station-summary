@@ -24,7 +24,6 @@
 - http://ai.yscxy.net/ - 免费由开发者提供
 - https://chat.binjie.site:7777 - 自动跳转 https://chat.jinshutuan.com/
 - https://chat.jinshutuan.com/ - 免费由开发者提供
-- https://chatgpt.0voice.com/#/chat - 免费由零声教育内部提供使用
 - https://aiweb.douguguo.com/ - 默认同一ip只提供一次免费查询机会
 - https://www.ebo168.com/ - 免费由开发者提供(有广告维持服务)
 - https://chat.extkj.cn/ - 访问404 免费由开发者提供(有广告维持服务)
@@ -73,6 +72,7 @@
 - https://ai.zhangsan.cloud/ - 暂时无法访问(2023/05/22)
 - https://chatgptmirror.com/ - 暂时无法访问(2023/05/25)
 - http://chatai.youyancn.com/ - 暂时无法访问(2023/05/30)
+- https://chatgpt.0voice.com/#/chat - 已下线
 
 
 ### 登录后可以免费使用的：
