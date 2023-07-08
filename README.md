@@ -14,6 +14,7 @@
 - https://chatbot.flares.ai - GPT-3.5免费使用，提供数百种预设角色
 - https://chat.jinshutuan.com/ - 免费由开发者提供
 - https://itedus.cn - 免费但需要关注公众号
+- https://chat.xr21.me/ - 免费10次 关注公众号或登录论坛可获取访问密码解锁到100次每小时/ip
 - https://openai.run/ - 非会员每日免费额度 10,000 Tokens
 - https://chat.darkhorseone.cn/ - 代码一号
 - https://chat.aichatos.top/ - 免费由开发者提供(可以开启chatgpt联网功能)
@@ -146,6 +147,7 @@
 - https://chatgpt.cn.obiscr.com/ - 在 idea 上使用 chatgpt
 - https://monica.im/ - Chrome或Edge浏览器安装插件
 - https://bito.ai/ - bito插件(idea插件/vscode插件/chrome插件均支持) 注册登录即可免费使用，必须联网使用，外网较慢
+- https://forum.xr21.me/ - idea插件X-ChatGPT 免费每小时100次/ip 速度极快 支持一键分析日志、一键生成日报、一键CodeReview、项目上下文感知 等特色功能
 
 ### 国内自研大模型汇总：
 
