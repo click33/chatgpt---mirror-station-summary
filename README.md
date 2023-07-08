@@ -47,7 +47,7 @@
 - https://ai.pushplus.plus - 每天免费使用10次，会员10元/月无限制。
 - https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
 - https://www.jiankaitianmen.com/ - 无需登录免费流畅无限制无广
-- https://ai.aging.run - 无需登陆+快速响应+无限制免费对话/绘画。
+- https://gpt.aging.run - 无需登陆+快速响应+无限制免费对话/绘画。
 - https://www.77cob.top/ - GPT-3.5-16k ，吐字快，无次数限制，不需要登陆，永久免费
 - https://chat.2.bnu120.space/ - 无需登陆，界面简洁，免费使用，国内可以访问
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
