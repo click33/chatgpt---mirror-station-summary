@@ -146,7 +146,7 @@
 - https://chatgpt.cn.obiscr.com/ - 在 idea 上使用 chatgpt
 - https://monica.im/ - Chrome或Edge浏览器安装插件
 - https://bito.ai/ - bito插件(idea插件/vscode插件/chrome插件均支持) 注册登录即可免费使用，必须联网使用，外网较慢
-
+- https://forum.xr21.me/ - idea插件X-ChatGPT 免费每小时100次/ip 速度极快 支持一键分析日志、一键生成日报、一键CodeReview等特色功能
 ### 国内自研大模型汇总：
 
 - https://yiyan.baidu.com/ - 文心一言，百度出品
