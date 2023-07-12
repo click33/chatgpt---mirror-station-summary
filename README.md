@@ -10,10 +10,12 @@
 
 ### 无需登录直接可用的：
 - https://open.yunai.com.cn -微信扫码一键登录，既有聊天功能，也接入了midjourney画图，模型可选，关注公众号后免费体验，功能强大。
+- http://s.suolj.com - 微信扫码一键登录，支持4.0，支持对话和midjourney画图
 - https://www.zxf7460.cn/home - GPT-3.5-16k免费使用，吐字块，每日20次数，不需要登陆
 - https://chatbot.flares.ai - GPT-3.5免费使用，提供数百种预设角色
 - https://chat.jinshutuan.com/ - 免费由开发者提供
 - https://itedus.cn - 免费但需要关注公众号
+- https://chat.xr21.me/ - 免费10次 关注公众号或登录论坛可获取访问密码解锁到100次每小时/ip
 - https://openai.run/ - 非会员每日免费额度 10,000 Tokens
 - https://chat.darkhorseone.cn/ - 代码一号
 - https://chat.aichatos.top/ - 免费由开发者提供(可以开启chatgpt联网功能)
@@ -23,7 +25,6 @@
 - http://ai.yscxy.net/ - 免费由开发者提供
 - https://chat.binjie.site:7777 - 自动跳转 https://chat.jinshutuan.com/
 - https://chat.jinshutuan.com/ - 免费由开发者提供
-- https://chatgpt.0voice.com/#/chat - 免费由零声教育内部提供使用
 - https://aiweb.douguguo.com/ - 默认同一ip只提供一次免费查询机会
 - https://www.ebo168.com/ - 免费由开发者提供(有广告维持服务)
 - https://chat.extkj.cn/ - 访问404 免费由开发者提供(有广告维持服务)
@@ -45,11 +46,12 @@
 - https://www.bioinfortree.asia/ - 关注公众号后免费试用
 - https://chat.newstop.asia - 免费，可选模版，不用登录，不限次数gpt3.5
 - https://free.easychat.work - 支持ddg搜索以及google bard，免费不限制次数使用gpt-3.5-turbo gpt-3.5-turbo-16k
-- https://www.9ut.cn/ - 打开即用，已稳定运行3个月
 - https://ai.pushplus.plus - 每天免费使用10次，会员10元/月无限制。
-- https://www.mfzn.top/ - GPT-3.5-16k免费使用，吐字快，无次数限制，不需要登陆
 - https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
 - https://www.jiankaitianmen.com/ - 无需登录免费流畅无限制无广
+- https://gpt.aging.run - 无需登陆+快速响应+无限制免费对话/绘画。
+- https://www.77cob.top/ - GPT-3.5-16k ，吐字快，无次数限制，不需要登陆，永久免费
+- https://chat.2.bnu120.space/ - 无需登陆，界面简洁，免费使用，国内可以访问
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
 - http://chat.iisai.cn - 暂时无法访问(2023/05/22)
 - http://mychatos.top/#/chat - 暂时无法访问(2023/05/22)
@@ -72,6 +74,7 @@
 - https://ai.zhangsan.cloud/ - 暂时无法访问(2023/05/22)
 - https://chatgptmirror.com/ - 暂时无法访问(2023/05/25)
 - http://chatai.youyancn.com/ - 暂时无法访问(2023/05/30)
+- https://chatgpt.0voice.com/#/chat - 已下线
 
 
 ### 登录后可以免费使用的：
@@ -109,6 +112,8 @@
 - https://www.tomchat.online/
 - https://openai-a.chat - 邮箱注册
 - https://www.im9.cc - 想象智能写作系统，登陆后免费每月4万ChatGPT字数/2张SD绘图
+- https://ai.tgmeng.com - gpt3.5 永久免费开放了
+- https://ai.mkzero.top:44444/ - 登录
 
 
 ### 需要付费的：
@@ -143,6 +148,7 @@
 - https://chatgpt.cn.obiscr.com/ - 在 idea 上使用 chatgpt
 - https://monica.im/ - Chrome或Edge浏览器安装插件
 - https://bito.ai/ - bito插件(idea插件/vscode插件/chrome插件均支持) 注册登录即可免费使用，必须联网使用，外网较慢
+- https://forum.xr21.me/ - idea插件X-ChatGPT 免费每小时100次/ip 速度极快 支持一键分析日志、一键生成日报、一键CodeReview、项目上下文感知 等特色功能
 
 ### 国内自研大模型汇总：
 
