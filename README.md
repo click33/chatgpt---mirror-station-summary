@@ -75,6 +75,7 @@
 - https://chatgptmirror.com/ - 暂时无法访问(2023/05/25)
 - http://chatai.youyancn.com/ - 暂时无法访问(2023/05/30)
 - https://chatgpt.0voice.com/#/chat - 已下线
+- https://ai.kunshanyuxin.com/chat/gpt3.5.html
 
 
 ### 登录后可以免费使用的：
