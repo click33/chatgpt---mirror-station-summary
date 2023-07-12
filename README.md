@@ -52,6 +52,7 @@
 - https://gpt.aging.run - 无需登陆+快速响应+无限制免费对话/绘画。
 - https://www.77cob.top/ - GPT-3.5-16k ，吐字快，无次数限制，不需要登陆，永久免费
 - https://chat.2.bnu120.space/ - 无需登陆，界面简洁，免费使用，国内可以访问
+- https://gcloudlab.github.io/nav - 免登录+无限制对话+无限制绘图+无广+支持3.5-16k
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
 - http://chat.iisai.cn - 暂时无法访问(2023/05/22)
 - http://mychatos.top/#/chat - 暂时无法访问(2023/05/22)
@@ -99,6 +100,7 @@
 - https://hugai.vip/ - chatgpt3.5(为防止被封使用文心一言的名称)
 - http://chat.612ch.com/ - 智能咨询小天使(GPT3.5 每日免费提问20次不限Token)
 - https://workhardai.com/ - 在微信内置浏览器内打开再开个浮窗，简直不要太方便。
+- https://s.20a.top/7314 - 采用微软Azure接口，支持gpt4.0和3.5，登录即拥有20次，每日签到即得5次，邀请新用户获得20次
 - http://ai.mkzero.top:44444/ - 登陆后免费使用
 - http://chatsite.chat/ - 暂时无法访问(2023/05/22)
 - http://www.gpt-smart.com/ - 暂时无法访问(2023/05/22)
