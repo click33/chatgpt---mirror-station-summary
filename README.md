@@ -50,7 +50,7 @@
 - https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
 - https://www.jiankaitianmen.com/ - 无需登录免费流畅无限制无广
 - https://gcloudlab.github.io/nav - 无需登陆+快速响应+无限制免费对话/绘画。
-- https://www.77cob.top/ - GPT-3.5-16k ，吐字快，无次数限制，不需要登陆，永久免费
+- https://www.77gsm.top/ - GPT-3.5-16k ，吐字快，无次数限制，不需要登陆，永久免费
 - https://chat.2.bnu120.space/ - 无需登陆，界面简洁，免费使用，国内可以访问
 - https://gcloudlab.github.io/nav - 免登录+无限制对话+无限制绘图+无广+支持3.5-16k
 - http://ai.wikll.com - 暂时无法访问(2023/05/22)
@@ -126,6 +126,7 @@
 - https://static-mp-1bc4f84b-cb57-4859-b32d-1ff3a3b3a3f1.next.bspapp.com/ - 建议手机访问
 - https://tryai1.github.io/
 - https://god.supperjoy.online
+- https://chatai.yxboot.com/
 - https://so.csdn.net/so/ai - CSDN和外部合作伙伴联合研发的生成式AI产品(每天5次免费提问)
 - https://yanghanwen.xyz/ - 暂时无法访问(2023/05/22)
 
