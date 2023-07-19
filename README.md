@@ -9,6 +9,8 @@
 欢迎大家一起贡献，请直接提交 issue 或者 pr （只能提交普通网络下就可以访问成功的）
 
 ### 无需登录直接可用的：
+- https://datuchat.com - GPT-3 打开就能用，无需任何步骤
+- https://codesdevs.github.io - 扫码一键登录，4.0和mj绘画
 - https://open.yunai.com.cn -微信扫码一键登录，既有聊天功能，也接入了midjourney画图，模型可选，关注公众号后免费体验，功能强大。
 - http://s.suolj.com - 微信扫码一键登录，支持4.0，支持对话和midjourney画图
 - https://www.zxf7460.cn/home - GPT-3.5-16k免费使用，吐字块，每日20次数，不需要登陆
@@ -20,7 +22,6 @@
 - https://chat.darkhorseone.cn/ - 代码一号
 - https://chat.aichatos.top/ - 免费由开发者提供(可以开启chatgpt联网功能)
 - https://chat.ttext.cn/ - 免费时限制每小时6次提问
-- https://chat.wuguokai.cn - 免费由开发者提供
 - https://chatgpt.nicelinks.site/ - 免费使用频次有限制
 - http://ai.yscxy.net/ - 免费由开发者提供
 - https://chat.binjie.site:7777 - 自动跳转 https://chat.jinshutuan.com/
@@ -53,30 +54,6 @@
 - https://www.77gsm.top/ - GPT-3.5-16k ，吐字快，无次数限制，不需要登陆，永久免费
 - https://chat.2.bnu120.space/ - 无需登陆，界面简洁，免费使用，国内可以访问
 - https://gcloudlab.github.io/nav - 免登录+无限制对话+无限制绘图+无广+支持3.5-16k
-- http://ai.wikll.com - 暂时无法访问(2023/05/22)
-- http://chat.iisai.cn - 暂时无法访问(2023/05/22)
-- http://mychatos.top/#/chat - 暂时无法访问(2023/05/22)
-- https://chatbot.theb.ai/ - 暂时无法访问(2023/05/22)
-- https://openai.nm.cn/ - 暂时无法访问(2023/05/22)
-- https://chat-shared.zhile.io/shared.html - 暂时无法访问(2023/05/22)
-- https://chat.gpthink.top/#/chat - 暂时无法访问(2023/05/22)
-- http://duckling.buzz/ - 暂时无法访问(2023/05/22)
-- https://chat.openai.run/ - 暂时无法访问(2023/05/22)
-- https://chatmindai.cn - 暂时无法访问(2023/05/22)
-- https://chat.getgpt.com.cn/ - 暂时无法访问(2023/05/22)
-- https://studyai.life/  - 暂时无法访问(2023/05/22)
-- https://chat1.aichatos.com/ - 暂时无法访问(2023/05/22)
-- https://chat.wikll.com/ - 暂时无法访问(2023/05/22)
-- https://gpt.mqgggg.top/ - 暂时无法访问(2023/05/22)
-- https://openai.tdp.icu - 暂时无法访问(2023/05/22)
-- https://infiniteai.chat  - 暂时无法访问(2023/05/22)
-- http://s.wikll.com - 暂时无法访问(2023/05/22)
-- http://huangkz.chat - 暂时无法访问(2023/05/22)
-- https://ai.zhangsan.cloud/ - 暂时无法访问(2023/05/22)
-- https://chatgptmirror.com/ - 暂时无法访问(2023/05/25)
-- http://chatai.youyancn.com/ - 暂时无法访问(2023/05/30)
-- https://chatgpt.0voice.com/#/chat - 已下线
-- https://ai.kunshanyuxin.com/chat/gpt3.5.html
 
 
 ### 登录后可以免费使用的：
@@ -102,16 +79,6 @@
 - https://workhardai.com/ - 在微信内置浏览器内打开再开个浮窗，简直不要太方便。
 - https://s.20a.top/7314 - 采用微软Azure接口，支持gpt4.0和3.5，登录即拥有20次，每日签到即得5次，邀请新用户获得20次
 - http://ai.mkzero.top:44444/ - 登陆后免费使用
-- http://chatsite.chat/ - 暂时无法访问(2023/05/22)
-- http://www.gpt-smart.com/ - 暂时无法访问(2023/05/22)
-- https://front2.stargpt.top/#/chat - 暂时无法访问(2023/05/22)
-- https://dittin.com/ - 暂时无法访问(2023/05/22)
-- https://chat.yokonsan.com/ - 暂时无法访问(2023/05/22)
-- https://gpthink.xyz/#/chat - 暂时无法访问(2023/05/22)
-- https://gpt.fly2you.cn/web/ - 暂时无法访问(2023/05/22)
-- https://gpt.opengpt88.com/ - 暂时无法访问(2023/05/22)
-- http://ai.apemangpt.com/ - 暂时无法访问(2023/05/22)
-- https://ai.shenhuo.net/ - 暂时无法访问(2023/05/24)
 - https://www.tomchat.online/
 - https://openai-a.chat - 邮箱注册
 - https://www.im9.cc - 想象智能写作系统，登陆后免费每月4万ChatGPT字数/2张SD绘图
@@ -128,15 +95,11 @@
 - https://god.supperjoy.online
 - https://chatai.yxboot.com/
 - https://so.csdn.net/so/ai - CSDN和外部合作伙伴联合研发的生成式AI产品(每天5次免费提问)
-- https://yanghanwen.xyz/ - 暂时无法访问(2023/05/22)
 
 ### 需要自己提供 key 的：
 
-- https://chat-shared.zhile.io/ - 暂时无法访问(2023/05/22)
-- http://www.aihu003.me/ - 暂时无法访问(2023/05/22)
-- https://gpt.dizent.cn/ - 暂时无法访问(2023/05/22)
-- https://chat.okis.dev/zh-CN?mode=chat - 暂时无法访问(2023/05/22)
-- https://ai.pmaigc.com/ - 暂时无法访问(2023/05/22)
+- - 无
+
 
 ### 开源的，可以自己部署到本地的：
 
