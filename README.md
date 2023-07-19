@@ -54,6 +54,7 @@
 - https://www.77gsm.top/ - GPT-3.5-16k ，吐字快，无次数限制，不需要登陆，永久免费
 - https://chat.2.bnu120.space/ - 无需登陆，界面简洁，免费使用，国内可以访问
 - https://gcloudlab.github.io/nav - 免登录+无限制对话+无限制绘图+无广+支持3.5-16k
+- https://ai.ixxxk.com/ - 无任何限制，现在没有，以后也没有。
 
 
 ### 登录后可以免费使用的：
