@@ -157,7 +157,7 @@
 - https://github.com/xx025/carrot - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点
 - https://www.html5iq.com/hottopic/y6yVS7MFRipoBh8QnK0G1 - gpt镜像站搜集
 - https://cc.ai55.cc/ - gpt 镜像站
-
+- https://gitee.com/oschina/awesome-llm - 这可能是最全的开源 LLM （大语言模型）整理
 
 ### 提醒:
 
