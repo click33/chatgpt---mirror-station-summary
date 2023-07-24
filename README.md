@@ -154,6 +154,8 @@
 - https://www.ainav.net/ - AI工具集导航网站
 - https://c.runoob.com/ai/ - 菜鸟工具
 - https://d0424.ai55.cc/ - 公众号:赞美青春
+- https://github.com/xx025/carrot - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点
+
 
 ### 提醒:
 
