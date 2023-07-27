@@ -1,0 +1,26 @@
+### 无需登录直接可用的：
+- https://chatbot.flares.ai - GPT-3.5免费使用，提供数百种预设角色
+- https://chat.xr21.me/ - 免费10次 关注公众号或登录论坛可获取访问密码解锁到100次每小时/ip
+- https://chat.darkhorseone.cn/ - 代码一号
+- http://ai.yscxy.net/ - 免费由开发者提供
+- https://ai.08qt.com/ - 免费可用
+- https://chat.acheckling.com.cn/ - 免费由开发者提供
+- https://chat.newstop.asia - 免费，可选模版，不用登录，不限次数gpt3.5
+- https://free.easychat.work - 支持ddg搜索以及google bard，免费不限制次数使用gpt-3.5-turbo gpt-3.5-turbo-16k
+- https://www.jiankaitianmen.com/ - 无需登录免费流畅无限制无广
+- https://gcloudlab.github.io/nav - 无需登陆+快速响应+无限制免费对话/绘画。
+- https://www.77gsm.top/ - GPT-3.5-16k ，吐字快，无次数限制，不需要登陆，永久免费
+- https://chat.2.bnu120.space/ - 无需登陆，界面简洁，免费使用，国内可以访问
+- https://ai.ixxxk.com/ - 无任何限制，现在没有，以后也没有。
+### AI工具集导航网站:
+- https://hao.94c.cn/ - 好导航就是c
+- https://ai-bot.cn/ - 第一次加载较慢
+- https://www.aiyjs.com/ - AI工具集导航网站
+- https://www.aigc.cn/ - AIGC 导航网站
+- https://www.ainav.net/ - AI工具集导航网站
+- https://c.runoob.com/ai/ - 菜鸟工具
+- https://d0424.ai55.cc/ - 公众号:赞美青春
+- https://github.com/xx025/carrot - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点
+- https://www.html5iq.com/hottopic/y6yVS7MFRipoBh8QnK0G1 - gpt镜像站搜集
+- https://cc.ai55.cc/ - gpt 镜像站
+- https://gitee.com/oschina/awesome-llm - 这可能是最全的开源 LLM （大语言模型）整理
