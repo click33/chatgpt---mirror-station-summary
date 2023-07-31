@@ -113,7 +113,7 @@
 
 ### 插件：
 
-- https://www.wetab.link/zh/ - Edge浏览器插件（邮箱登录后免费使用）
+- https://www.wetab.link/zh/ - Edge浏览器插件（现已开始收费，8.8一月）
 - https://chatgpt.cn.obiscr.com/ - 在 idea 上使用 chatgpt
 - https://monica.im/ - Chrome或Edge浏览器安装插件
 - https://bito.ai/ - bito插件(idea插件/vscode插件/chrome插件均支持) 注册登录即可免费使用，必须联网使用，外网较慢
