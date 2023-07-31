@@ -87,7 +87,6 @@
 - https://ai.mkzero.top:44444/ - 登录
 - http://www.heifree.com - -邮箱注册10次使用
 - https://ai-cn.co - 新用户登录送500 Token
-- https://chat8.co - 需登录
 
 ### 需要付费的：
 
