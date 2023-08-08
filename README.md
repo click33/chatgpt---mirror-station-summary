@@ -97,11 +97,7 @@
 - https://god.supperjoy.online
 - https://chatai.yxboot.com/
 - https://so.csdn.net/so/ai - CSDN和外部合作伙伴联合研发的生成式AI产品(每天5次免费提问)
-
-### 需要自己提供 key 的：
-
-- - 无
-
+- https://plumgpt.com/ - 免费提问3次, 之后必须付费
 
 ### 开源的，可以自己部署到本地的：
 
