@@ -106,6 +106,7 @@
 - https://gitee.com/aniu-666/chat-gpt-website
 - https://github.com/hncboy/chatgpt-web-java
 - http://be.apeto.cn/archives/shang-ye-ban-chatgpt - 商业可部署chatgpt项目(演示地址:http://chat.apeto.cn)
+- https://github.com/Yidadaa/ChatGPT-Next-Web
 
 ### 插件：
 
