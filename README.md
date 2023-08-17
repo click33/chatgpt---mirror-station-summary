@@ -98,6 +98,7 @@
 - https://chatai.yxboot.com/
 - https://so.csdn.net/so/ai - CSDN和外部合作伙伴联合研发的生成式AI产品(每天5次免费提问)
 - https://plumgpt.com/ - 免费提问3次, 之后必须付费
+- https://gpt.91chat-ai.cn/
 
 ### 开源的，可以自己部署到本地的：
 
