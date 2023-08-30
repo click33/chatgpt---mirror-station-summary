@@ -60,6 +60,7 @@
 
 
 ### 登录后可以免费使用的：
+- https://www.chatpanda.net/ - 新注册后有7天会员，付费可使用GPT4
 - https://www.vi-ai.xyz -注册5次使用，加客服微信后每天可领取免费兑换码。
 - https://ai.gcchen.cn/ - 星云 AI
 - http://chat.apeto.cn/ - Genius
