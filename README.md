@@ -71,6 +71,7 @@
 - https://ai.mkzero.top:44444/ - 登陆后免费使用
 - http://www.heifree.com - -邮箱注册10次使用
 - http://s.suolj.com - 微信扫码一键登录，支持4.0，支持对话和midjourney画图
+- https://so.csdn.net/so/ai - CSDN和外部合作伙伴联合研发的生成式AI产品(每天5次免费提问)
 
 已嘎：
 - https://www.mygptpro.online - 未来之眼AI, 可能需要关注公众号 （2023-8-30）
@@ -89,25 +90,27 @@
 
 
 ### 需要付费的：
-
-- https://chatgpt-cn.co - 微信注册，微信/支付宝付款，按Token收费
-- https://www.openai-asia.com - 国内邮箱注册支持支付宝付款
-- https://static-mp-1bc4f84b-cb57-4859-b32d-1ff3a3b3a3f1.next.bspapp.com/ - 建议手机访问
-- https://tryai1.github.io/
-- https://god.supperjoy.online
-- https://chatai.yxboot.com/
-- https://so.csdn.net/so/ai - CSDN和外部合作伙伴联合研发的生成式AI产品(每天5次免费提问)
+- https://chatai.yxboot.com/ - 云行 AI 
 - https://plumgpt.com/ - 免费提问3次, 之后必须付费
 - https://gpt.91chat-ai.cn/
 
+已嘎：
+- https://chatgpt-cn.co - 微信注册，微信/支付宝付款，按Token收费（2023-8-30）
+- https://www.openai-asia.com - 国内邮箱注册支持支付宝付款（2023-8-30）
+- https://static-mp-1bc4f84b-cb57-4859-b32d-1ff3a3b3a3f1.next.bspapp.com/ - 建议手机访问（2023-8-30）
+- https://tryai1.github.io/（2023-8-30）
+- https://god.supperjoy.online（2023-8-30）
+
+
 ### 开源的，可以自己部署到本地的：
 
-- https://gitee.com/lboot/lucy-chat
 - https://github.com/Chanzhaoyu/chatgpt-web - 支持 access_token 和 apikey 两种方式
 - https://github.com/Yidadaa/ChatGPT-Next-Web - 可以不下载到本地直接云部署 
 - https://gitee.com/aniu-666/chat-gpt-website
 - https://github.com/hncboy/chatgpt-web-java
 - http://be.apeto.cn/archives/shang-ye-ban-chatgpt - 商业可部署chatgpt项目(演示地址:http://chat.apeto.cn)
+- https://gitee.com/lboot/lucy-chat
+
 
 ### 插件：
 
