@@ -9,8 +9,6 @@
 欢迎大家一起贡献，请直接提交 issue 或者 pr （只能提交普通网络下就可以访问成功的）
 
 ### 无需登录直接可用的：
-- https://chatbot.flares.ai - GPT-3.5免费使用，提供数百种预设角色
-- https://codesdevs.github.io - 扫码一键登录，4.0和mj绘画
 - http://s.suolj.com - 微信扫码一键登录，支持4.0，支持对话和midjourney画图
 - https://www.zxf7460.cn/home - GPT-3.5-16k免费使用，吐字块，每日20次数，不需要登陆
 - https://chat.jinshutuan.com/ - 免费由开发者提供
@@ -53,10 +51,12 @@
 - https://chat.2.bnu120.space/ - 无需登陆，界面简洁，免费使用，国内可以访问
 - https://gcloudlab.github.io/nav - 免登录+无限制对话+无限制绘图+无广+支持3.5-16k
 - https://ai.ixxxk.com/ - 无任何限制，现在没有，以后也没有。
+- https://codesdevs.github.io - 扫码一键登录，4.0和mj绘画
 
 已无法打开的
-- https://datuchat.com - GPT-3 打开就能用，无需任何步骤
-- https://open.yunai.com.cn -微信扫码一键登录，既有聊天功能，也接入了midjourney画图，模型可选，关注公众号后免费体验，功能强大。
+- https://datuchat.com - GPT-3 打开就能用，无需任何步骤（2023-8-30）
+- https://open.yunai.com.cn -微信扫码一键登录，既有聊天功能，也接入了midjourney画图，模型可选，关注公众号后免费体验，功能强大。（2023-8-30）
+- https://chatbot.flares.ai - GPT-3.5免费使用，提供数百种预设角色（2023-8-30）
 
 
 ### 登录后可以免费使用的：
