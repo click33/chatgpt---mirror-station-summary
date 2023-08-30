@@ -106,11 +106,11 @@
 ### 开源的，可以自己部署到本地的：
 
 - https://gitee.com/lboot/lucy-chat
-- https://github.com/Chanzhaoyu/chatgpt-web
+- https://github.com/Chanzhaoyu/chatgpt-web - 支持 access_token 和 apikey 两种方式
+- https://github.com/Yidadaa/ChatGPT-Next-Web - 可以不下载到本地直接云部署 
 - https://gitee.com/aniu-666/chat-gpt-website
 - https://github.com/hncboy/chatgpt-web-java
 - http://be.apeto.cn/archives/shang-ye-ban-chatgpt - 商业可部署chatgpt项目(演示地址:http://chat.apeto.cn)
-- https://github.com/Yidadaa/ChatGPT-Next-Web
 
 ### 插件：
 
