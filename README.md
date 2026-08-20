@@ -93,6 +93,7 @@
 - https://chatai.yxboot.com/ - 云行 AI 
 - https://plumgpt.com/ - 免费提问3次, 之后必须付费
 - https://gpt.91chat-ai.cn/
+- https://gptpro20x.com/ - ChatGPT 官方订阅充值（GO/Plus/Pro 全档位），支付宝微信付款，直充自己账号
 
 已嘎：
 - https://chatgpt-cn.co - 微信注册，微信/支付宝付款，按Token收费（2023-8-30）
